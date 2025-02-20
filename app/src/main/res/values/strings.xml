@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Personal Quiz</string>
+    <string name="quiz_title">Personal Quiz</string>
+    <string name="next_button">Next</string>
+    <string name="your_answer_hint">Your answer</string>
+
+    <!-- Personal Questions -->
+    <string name="true_false_question">True or False: I enjoy spontaneous adventures.</string>
+    <string name="single_choice_question">Which season do you prefer?</string>
+    <string name="multiple_choice_question">Select your favorite hobbies:</string>
+    <string name="text_question">What is your dream job?</string>
+
+    <!-- Options for Single Choice Question -->
+    <string name="single_choice_option_1">Spring</string>
+    <string name="single_choice_option_2">Summer</string>
+    <string name="single_choice_option_3">Autumn</string>
+    <string name="single_choice_option_4">Winter</string>
+
+    <!-- Options for Multiple Choice Question -->
+    <string name="multiple_choice_option_1">Reading</string>
+    <string name="multiple_choice_option_2">Traveling</string>
+    <string name="multiple_choice_option_3">Cooking</string>
+    <string name="multiple_choice_option_4">Sports</string>
+</resources>
